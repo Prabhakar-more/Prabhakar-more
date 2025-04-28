@@ -1,16 +1,28 @@
 <h1 align="center">Hi 👋, I'm Prabhakar More</h1>
 <h3 align="center">A passionate Software Engineer | Full Stack Java Developer</h3>
-
+<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5b2316ce41.gif">
-<b>🧑‍💻 About Me</b>
+<h1><b>👨‍💻About Me</b></h1>
 
-🚀 Currently focused on building real-world projects and expanding my technical skillset.</br>
-💻 Strong foundation in Programming, Data Structures, Web Development, and Problem Solving.</br>
-🌱 Always learning and improving — exploring Backend Development, Frontend Frameworks, and Cloud Services.</br>
-📚 Actively working on personal projects to showcase my learning in practical, meaningful ways.</br>
-🤝 Open to collaboration on open-source projects, internships, and volunteer opportunities.</br>
-🛠️ Tech Stack: Java, HTML, CSS, JavaScript, Bootstrap, React, Oracle, Git, GitHub.</br>
+
+🎓 I am currently pursuing my Bachelor's degree in Computer Science and Engineering (CSE).
+
+👨‍💻 I am passionate about learning new technologies, improving my coding skills, and building real-world projects.
+
+🚀 I am actively exploring fields like Web Development, Data Structures & Algorithms.
+
+🌱 I am currently focusing on strengthening my knowledge in Full-Stack Development and Problem Solving.
+
+💬 Ask me about anything related to tech — I am happy to collaborate and grow together!
+
+🛠️ Tech Stack: Java, HTML, CSS, JavaScript, Bootstrap, React, Oracle, Git, GitHub.
+
+🤝 Open to collaboration on open-source projects, internships, and volunteer opportunities.
+
 🎯 Career Goal: Become a Software Developer who builds impactful and scalable solutions.
+
+📫 How to reach me: [prabhakarmore0403@gmail.com]
+
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
@@ -27,12 +39,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Prabhakar More's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhakar-more&show_icons=true&theme=tokyonight" alt="Prabhakar More's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakar-more&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prabhakar-more&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/Prabhakar-more?label=Followers&style=social)
+
 
 
 ![Prabhakar More GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabhakar-more&show_icons=true&theme=radical)
