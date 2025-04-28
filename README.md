@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabhakar Balaji More</h1>
+<h1 align="center">Hi 👋, I'm Prabhakar More</h1>
 <h3 align="center">A passionate Software Engineer | Full Stack Java Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5b2316ce41.gif">
@@ -35,7 +35,7 @@
 ![Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Prabhakar More GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabhakar-more&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
