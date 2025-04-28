@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate Software Engineer | Web Developer | Designer</h3>
+<h1 align="center">Hi 👋, I'm Prabhakar Balaji More</h1>
+<h3 align="center">A passionate Software Engineer | Full Stack Java Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5b2316ce41.gif">
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" /></a>
-  <a href="https://instagram.com/yourhandle" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/prabhakar-more-485a9924b" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
+  <a href="mailto:prabhakarmore0403@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" /></a>
+  <a href="[https://instagram.com/yourhandle](https://www.instagram.com/prabhakarmore007?igsh=ZjN2NndpeGlycGdh)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ---
