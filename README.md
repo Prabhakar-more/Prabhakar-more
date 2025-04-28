@@ -31,12 +31,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Prabhakar-more&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Prabhakar-more?label=Followers&style=social)
 
 
 ![Prabhakar More GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabhakar-more&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakar-more&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prabhakar-more&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
