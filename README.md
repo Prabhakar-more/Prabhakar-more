@@ -29,8 +29,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Prabhakar More&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Prabhakar More?label=Followers&style=social)
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
