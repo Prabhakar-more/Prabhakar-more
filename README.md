@@ -7,12 +7,12 @@
 - 🌱 I’m currently learning **[Tech Stack/Skills]**
 - 👯 I’m looking to collaborate on **[Open Source Projects/Startups]**
 - 💬 Ask me about **[Skills]**
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **prabhakarmore0403@gmail.com**
 - 📄 Know about my experiences [Resume Link]
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,flask,django,git,github,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,git,github,bootstrap,oracle" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
