@@ -2,13 +2,15 @@
 <h3 align="center">A passionate Software Engineer | Full Stack Java Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5b2316ce41.gif">
+<b>🧑‍💻 About Me</b>
 
-- 🔭 I’m currently working at **[Company/Organization]**
-- 🌱 I’m currently learning **[Tech Stack/Skills]**
-- 👯 I’m looking to collaborate on **[Open Source Projects/Startups]**
-- 💬 Ask me about **[Skills]**
-- 📫 How to reach me **prabhakarmore0403@gmail.com**
-- 📄 Know about my experiences [Resume Link]
+🚀 Currently focused on building real-world projects and expanding my technical skillset.</br>
+💻 Strong foundation in Programming, Data Structures, Web Development, and Problem Solving.</br>
+🌱 Always learning and improving — exploring Backend Development, Frontend Frameworks, and Cloud Services.</br>
+📚 Actively working on personal projects to showcase my learning in practical, meaningful ways.</br>
+🤝 Open to collaboration on open-source projects, internships, and volunteer opportunities.</br>
+🛠️ Tech Stack: Java, HTML, CSS, JavaScript, Bootstrap, React, Oracle, Git, GitHub.</br>
+🎯 Career Goal: Become a Software Developer who builds impactful and scalable solutions.
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
@@ -25,12 +27,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Your github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Prabhakar More's github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prabhakar More&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/Prabhakar More?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
