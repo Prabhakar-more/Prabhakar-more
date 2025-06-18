@@ -51,3 +51,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakar-more&layout=compact&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prabhakar-more&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+![](https://activity-graph.herokuapp.com/graph?username=Ayan-thecodeking&theme=github)
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/Ayan-thecodeking/ayan-thecodeking/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<!-- https://github.com/Ayan-thecodeking/ayan-thecodeking/blob/output/github-contribution-grid-snake.gif?raw=true -->
+
+<hr>
