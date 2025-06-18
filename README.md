@@ -1,5 +1,5 @@
  <p align="center">
-     <a href="https://github.com/Ayan-thecodeking"><img src="https://github.com/Ayan-thecodeking/Ayan-thecodeking/blob/main/Hello.gif" /></a> 
+     <a href="https://github.com/Prabhakar-more"><img src="https://github.com/Prabhakar-more/Prabhakar-more/blob/main/Hello.gif" /></a> 
 </p>
 
 <h1 align="center">Hi 👋, I'm Prabhakar More</h1>
