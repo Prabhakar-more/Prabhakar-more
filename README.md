@@ -75,8 +75,9 @@
 ![Prabhakar More GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabhakar-more&show_icons=true&theme=radical)
 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakar-more&layout=compact&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prabhakar-more&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 
 
 
