@@ -59,7 +59,7 @@
 <p align="left">
   <a href="www.linkedin.com/in/prabhakar-more-485a9924b" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
   <a href="mailto:prabhakarmore0403@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" /></a>
-  <a href="[https://instagram.com/yourhandle](https://www.instagram.com/prabhakarmore007?igsh=ZjN2NndpeGlycGdh)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" width="40" /></a>
+  <a href="[https://www.instagram.com/prabhakarmore007?utm_source=qr&igsh=ZjN2NndpeGlycGdh](https://www.instagram.com/prabhakarmore007?utm_source=qr&igsh=ZjN2NndpeGlycGdh)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ---
