@@ -83,6 +83,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakar-more&layout=compact&theme=radical)
  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prabhakar-more&theme=dracula&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
