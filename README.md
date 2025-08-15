@@ -27,6 +27,10 @@
 
 📫 How to reach me: [prabhakarmore0403@gmail.com]
 
+## 🌐 Portfolio
+Check out my work here: [**My Portfolio**](https://prabhakar-personal-portfolio.netlify.app/)
+
+
 
 ### 🛠️ Tech Stack
 - **Programming Languages:**  
@@ -44,6 +48,12 @@
 - **Database Management:**  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+
+
+- **Frameworks:**  
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
+
 
 - **Version Control:**  
   ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
@@ -86,6 +96,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prabhakar-more&theme=dracula&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
 
 ![](https://activity-graph.herokuapp.com/graph?username=Ayan-thecodeking&theme=github)
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
@@ -96,3 +110,4 @@
 <!-- https://github.com/Ayan-thecodeking/ayan-thecodeking/blob/output/github-contribution-grid-snake.gif?raw=true -->
 
 <hr>
+
