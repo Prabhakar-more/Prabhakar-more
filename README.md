@@ -9,7 +9,7 @@
 <h1><b>👨‍💻About Me</b></h1>
 
 
-🎓 I am currently pursuing my Bachelor's degree in Computer Science and Engineering (CSE).
+🎓 I have completed my Bachelor's degree in Computer Science and Engineering (CSE).
 
 👨‍💻 I am passionate about learning new technologies, improving my coding skills, and building real-world projects.
 
