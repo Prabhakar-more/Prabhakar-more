@@ -100,12 +100,6 @@ Check out my work here: [**My Portfolio**](https://prabhakar-personal-portfolio.
 
 
 
-## 🔥 GitHub Streak  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhakar-more&theme=tokyonight&hide_border=true" />
-</p>
-
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=Ayan-thecodeking&theme=github)
