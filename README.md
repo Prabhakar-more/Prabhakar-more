@@ -99,6 +99,12 @@ Check out my work here: [**My Portfolio**](https://prabhakar-personal-portfolio.
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prabhakar-more&theme=onedark&no-frame=true&margin-w=15" />
+</p>
+
 
 
 
