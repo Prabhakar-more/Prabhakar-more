@@ -86,14 +86,12 @@ Check out my work here: [**My Portfolio**](https://prabhakar-personal-portfolio.
 
 
 
-### 📊 GitHub Stats
-![Prabhakar More GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=Prabhakar-more&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=Prabhakar-more&show_icons=true&theme=radical)
 
-### 🔥 Top Languages
 ![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Prabhakar-more&layout=compact&theme=radical)
 
-### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Prabhakar-more&theme=dracula&no-frame=true&margin-w=5)
+
 
 
 
