@@ -78,22 +78,6 @@ Check out my work here: [**My Portfolio**](https://prabhakar-personal-portfolio.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhakar-more&show_icons=true&theme=tokyonight" alt="Prabhakar More's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakar-more&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-
-
-
-// ![GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=Prabhakar-more&show_icons=true&theme=radical)
-
-// ![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Prabhakar-more&layout=compact&theme=radical)
-
-// ![trophy](https://github-profile-trophy.vercel.app/?username=Prabhakar-more&theme=dracula&no-frame=true&margin-w=5)
-
-
-
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
